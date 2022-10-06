@@ -1,0 +1,86 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+vector
+-
+Automaton.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Automaton.h
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+string
+-
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/datalogProgram.cpp
+datalogProgram.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/datalogProgram.h
+sstream
+-
+algorithm
+-
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/datalogProgram.h
+vector
+-
+string
+-
+rule.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/rule.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+sstream
+-
+Token.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Token.h
+Lexer.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+parser.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parser.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parameter.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parser.cpp
+parser.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parser.h
+algorithm
+-
+iostream
+-
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parser.h
+Lexer.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/Lexer.h
+datalogProgram.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/datalogProgram.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/predicate.h
+string
+-
+vector
+-
+parameter.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/parameter.h
+
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/rule.h
+predicate.h
+C:/Users/jnien/Desktop/Class Notes/Fall 2022/CS 236 Discrete Structures/project1/project/predicate.h
+
